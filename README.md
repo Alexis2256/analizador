@@ -11,7 +11,7 @@ Este proyecto es una aplicación web desarrollada con React y Vite que permite:
 
 1. Clona este repositorio:
    ```sh
-   git clone <URL-del-repositorio>
+   git clone https://github.com/Alexis2256/analizador
    cd analizador
    ```
 
